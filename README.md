@@ -22,10 +22,10 @@
 
 - **Tech Stack:**  
   *Modify this section based on your stack (examples below):*
-  - Backend: Node.js, Python, Java, or other
-  - Frontend: React, Angular, Vue, or other
-  - Database: PostgreSQL, MongoDB, MySQL, etc.
-  - DevOps: Docker, GitHub Actions, etc.
+  - Backend: Node.js, TypeScript
+  - Frontend: Next.js, Tailwind CSS v4, Zustand (state management).
+  - Database: MongoDB via Mongoose 
+  - Animations & motion : Framer Motion / Motion and GSAP
 
 - **Folder Structure:**
   - `/src` - Source code
